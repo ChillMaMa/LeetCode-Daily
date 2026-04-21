@@ -4,6 +4,7 @@ feat: solve #1848. Minimum Distance to the Target Element
 chore: add new headers to inc/leetcode.h
 docs: update README
 docs: update cheat-sheet
+docs: update coding-notes
 docs: add comments to #1848. Minimum Distance to the Target Element (新增註解)
 refactor: optimize #1848. Minimum Distance to the Target Element (優化舊代碼)
 
@@ -13,6 +14,8 @@ refactor: optimize #1848. Minimum Distance to the Target Element (優化舊代�
 
 */
 
+/* Brute Force (TLE 609 / 614 testcases passed)
+or
 /* Brute Force
 
 ...暴力解...
