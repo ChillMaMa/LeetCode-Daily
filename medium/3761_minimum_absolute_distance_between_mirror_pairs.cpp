@@ -6,7 +6,7 @@
 
 // @lc code=start
 class Solution {
-   public:
+public:
     long long reverse(int n) {
         long long rev = 0;
         while (n > 0) {
