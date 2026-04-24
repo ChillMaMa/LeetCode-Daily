@@ -13,3 +13,11 @@ vector
     預先知道v的size時
     v.reserve(target.size());  // 預留空間優化
     只會改變 Capacity (容量)，不會改變 Size (大小)。
+
+對應 long long 的極大值常數
+    1. LLONG_MAX
+    2. numeric_limits<long long>::max()
+
+    // 無溢位風險
+    3. 1e15 or 1e17
+
